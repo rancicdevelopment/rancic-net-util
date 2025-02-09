@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#1C86EE</color>
+    <color name="colorPrimaryDark">#1978D6</color>
+    <color name="colorAccent">#505050</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorGrey">#e0e0e0</color>
+    <color name="colorSlate">#4E5D6C</color>
+
+    <color name="colorDarkGrey">#505050</color>
+    <color name="colorGreen">#4c7f18</color>
+    <color name="colorGreenDark">#009688</color>
+    <color name="colorBlueHint">#5b89b7</color>
+
+    <color name="colorAppBlue">#0000ff</color>
+    <color name="colorBlueShade">#92a1cf</color>
+
+    <color name="colorChartBlue">#02539a</color>
+    <color name="colorChartOrange">#b9482e</color>
+    <color name="colorChartGrey">#757575</color>
+
+    <color name="toolbar_red_indicator">#E11F1F</color>
+    <color name="btn_manual_entry_bg_color">#009688</color>
+</resources>

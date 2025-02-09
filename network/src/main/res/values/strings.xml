@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="online">Online</string>
+    <string name="connection_is_lost">Connection is lost</string>
+    <string name="online_again">Online again.</string>
+</resources>
